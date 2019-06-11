@@ -1,4 +1,4 @@
-FROM debian:stable-slim
+FROM openjdk:8-jdk
 
 LABEL "name"="sh"
 LABEL "maintainer"="GitHub Actions <support+actions@github.com>"
